@@ -4,10 +4,14 @@
 
 .panda-button{
     background-color: rgb(202, 65, 111);
+   
 }
 #pink{
     color:rgb(202, 65, 111); ;
 }
 .category img{
     width: 100px;
+}
+.white{
+    background-color: white;
 }
